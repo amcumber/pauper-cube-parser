@@ -88,5 +88,5 @@ if __name__ == "__main__":
     # )
     # p.parse_args()
     # main(p.file, p.block)
-    block = 'Throne of Eldraine'
+    block = 'CMR/KHM'
     main(FILE, block)
