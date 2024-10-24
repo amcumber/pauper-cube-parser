@@ -1,0 +1,372 @@
+# mainboard
+Loyal Pegasus
+Plated Sliver
+Blade of the Sixth Pride
+Countless Gears Renegade
+Disciple of Grace
+Dromoka Warrior
+Mistral Charger
+Phantom Nomad
+Soltari Emissary
+Soltari Trooper
+Youthful Knight
+Apex Hawks
+Dauntless Cathar
+Desperate Sentry
+Glint-Sleeve Artisan
+Kabuto Moth
+Mardu Hordechief
+Martyr's Soul
+Misthoof Kirin
+Sergeant-at-Arms
+Shadow Glider
+Soltari Lancer
+Dive Bomber
+Palace Sentinels
+Paladin of the Bloodstained
+Propeller Pioneer
+Skyhunter Patrol
+Tah-Crop Elite
+Plover Knights
+Squad Captain
+Squad Captain
+Daru Lancer
+Noble Templar
+Cloudshift
+Stave Off
+Center Soul
+Feat of Resistance
+Gideon's Reproach
+Test of Faith
+Army of Allah
+Fortify
+Second Thoughts
+Sheer Drop
+GO TO JAIL
+Hyena Umbra
+Compulsory Rest
+Reprobation
+Cage of Hands
+Isolation Zone
+Suppression Bonds
+Wingcrafter
+Looter il-Kor
+Merfolk Looter
+Screeching Skaab
+Seeker of Insight
+Thought Courier
+Waterfront Bouncer
+Benthic Infiltrator
+Calcite Snapper
+Exultant Cultist
+Rishadan Airship
+Sailor of Means
+Skywinder Drake
+Spined Thopter
+Stealer of Secrets
+Stitched Drake
+Cephalid Sage
+Deadeye Rig-Hauler
+Laboratory Brute
+Lotus Path Djinn
+Makeshift Mauler
+Separatist Voidmage
+Academy Journeymage
+Aven Surveyor
+Gryff Vanguard
+Soul of the Rapids
+Voidwielder
+Dispel
+Select for Inspection
+Whispers of the Muse
+Boomerang
+Disperse
+Whirlpool Whelm
+Winds of Rebuke
+Withdraw
+Artificer's Epiphany
+Depths of Desire
+Exclude
+Oona's Grace
+Sweep Away
+Leave in the Dust
+Rain of Revelation
+Enhanced Awareness
+Clutch of Currents
+Distortion Strike
+Eye of Nowhere
+Inaction Injunction
+Compulsive Research
+Drag Under
+Sensory Deprivation
+Kasmina's Transmutation
+Narcolepsy
+Runner's Bane
+Claustrophobia
+Waterknot
+Fume Spitter
+Pharika's Chosen
+Stronghold Confessor
+Vampire Lacerator
+Aether Poisoner
+Baleful Eidolon
+Blind Creeper
+Dauthi Horror
+Dauthi Slayer
+Dire Fleet Hoarder
+Ghoulcaller's Accomplice
+Gnawing Zombie
+Hand of Silumgar
+Mardu Skullhunter
+Nezumi Cutthroat
+Nightscape Familiar
+Pit Keeper
+Rancid Rats
+Skinthinner
+Sultai Emissary
+Vampire Interloper
+Wailing Ghoul
+Wretched Anurid
+Cadaver Imp
+Crow of Dark Tidings
+Dauthi Marauder
+Dauthi Mercenary
+Dead Reveler
+Deadeye Tormentor
+Foul Spirit
+Hired Blade
+Lawless Broker
+Necromancer's Assistant
+Vampire Envoy
+Wasteland Scorpion
+Driver of the Dead
+Herald of the Dreadhorde
+Maulfist Squad
+Mortis Dogs
+Slum Reaper
+Soulstinger
+Undead Executioner
+Vulturous Aven
+Gray Merchant of Asphodel
+Midnight Scavengers
+Grixis Slavedriver
+Sultai Scavenger
+Ghastly Demise
+Regicide
+Undying Evil
+Vendetta
+Corpse Churn
+Devour Flesh
+Doom Blade
+Grim Harvest
+Rend Flesh
+Snuff Out
+Chainer's Edict
+Disturbed Burial
+Crippling Fatigue
+Read the Bones
+Evincar's Justice
+Mire's Malice
+Corrupted Zendikon
+Mogg Fanatic
+Aether Chaser
+Borderland Marauder
+Common Iguana
+Goblin Trailblazer
+Gore-House Chainwalker
+Immolating Souleater
+Kruin Striker
+Makindi Sliderunner
+Mardu Scout
+Nest Robber
+Plated Geopede
+Pouncing Kavu
+Skirk Marauder
+Zada's Commando
+Brazen Wolves
+Burning-Tree Vandal
+Fervent Cathar
+Frilled Deathspitter
+Ghitu Slinger
+Goblin Smuggler
+Keldon Overseer
+Minotaur Skullcleaver
+Ronin Houndmaster
+Sparkspitter
+Splatter Thug
+Suq'Ata Lancer
+Viashino Sandsprinter
+Brazen Buccaneers
+Firefiend Elemental
+Goblin Freerunner
+Voldaren Duelist
+Manticore of the Gauntlet
+Scourge Devil
+Slash Panther
+Storm Fleet Pyromancer
+Thundering Giant
+Tenement Crasher
+Brute Force
+Rush of Adrenaline
+Fall of the Hammer
+Incinerate
+Searing Blaze
+Searing Spear
+Twin Bolt
+Barbed Lightning
+Path of Anger's Flame
+Tail Slash
+Trumpet Blast
+Pursue Glory
+Sarkhan's Rage
+Thunderous Wrath
+Faithless Looting
+Fire Ambush
+Volcanic Hammer
+Act of Treason
+Honor the God-Pharaoh
+Pyrotechnics
+Crusher Zendikon
+Undying Rage
+Orcish Oriflamme
+Basking Rootwalla
+Fyndhorn Elves
+Ivy Elemental
+Wild Nacatl
+Borderland Explorer
+Garruk's Companion
+Nest Invader
+Ulvenwald Captive
+Byway Courier
+Citanul Woodreaders
+Crocanura
+Elvish Rejuvenator
+Phantom Tiger
+Phantom Tiger
+Scion of the Wild
+Springbloom Druid
+Vivien's Grizzly
+Baloth Gorger
+Blastoderm
+Emperor Crocodile
+Grazing Whiptail
+Imperiosaur
+Kozilek's Predator
+Peema Outrider
+Swift Spinner
+Wickerbough Elder
+Overgrown Armasaur
+Rhox Maulers
+Sentinel Spider
+Stampeding Elk Herd
+Tajuru Pathwarden
+Thundering Tanadon
+Reclaim
+Aim High
+Evolution Charm
+Grapple with the Past
+Savage Surge
+Sylvan Might
+Ambuscade
+Harrow
+Natural Connection
+Unnatural Aggression
+Elephant Ambush
+Chatter of the Squirrel
+Prey Upon
+Savage Punch
+Selfie Preservation
+Beneath the Sands
+Cultivate
+Kodama's Reach
+Time to Feed
+Wild Instincts
+Fists of Ironwood
+Arachnus Web
+Azorius Guildmage
+Esper Cormorants
+Probe
+Dinrova Horror
+Rakdos Shred-Freak
+Wrecking Ball
+Scuzzback Scrapper
+Pit Fight
+Scuzzback Marauders
+Zhur-Taa Swine
+Safehold Elite
+Sundering Growth
+Travel Preparations
+Travel Preparations
+Centaur Healer
+Shield of the Oversoul
+Loyal Cathar
+Harsh Sustenance
+Razorfin Hunter
+Cunning Strike
+Grim Contest
+Rendclaw Trow
+Undercity Uprising
+Fresh-Faced Recruit
+Martial Glory
+Applied Biomancy
+Frilled Oculus
+Beetleform Mage
+Assault Zeppelid
+Crystallization
+Stormscape Apprentice
+Sangrite Backlash
+Bonded Construct
+Eager Construct
+Runed Servitor
+Cathodion
+Yotian Soldier
+Clay Statue
+Filigree Crawler
+Guardian Automaton
+Peace Strider
+Lurking Automaton
+Will-Forged Golem
+Welding Jar
+Bladed Bracers
+Blazing Torch
+Chromatic Sphere
+Leonin Scimitar
+Skyblinder Staff
+Viridian Longbow
+Armillary Sphere
+Cultist's Staff
+Prophetic Prism
+Sphere of the Suns
+Star Compass
+Veteran's Sidearm
+Mobile Garrison
+Strider Harness
+Whispersilk Cloak
+Meandering River
+Dimir Guildgate
+Submerged Boneyard
+Cinder Barrens
+Rakdos Guildgate
+Gruul Guildgate
+Timber Gorge
+Selesnya Guildgate
+Tranquil Expanse
+Forsaken Sanctuary
+Orzhov Guildgate
+Highland Lake
+Izzet Guildgate
+Foul Orchard
+Golgari Guildgate
+Boros Guildgate
+Stone Quarry
+Simic Guildgate
+Woodland Stream
+Khalni Garden
+Mortuary Mire
+Sandstone Bridge
+Skyline Cascade
+Teetering Peaks
+Warped Landscape
+
+# maybeboard
+
